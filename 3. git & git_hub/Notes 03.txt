@@ -1,0 +1,31 @@
+Git/Github
+*Github Code/project/folder Rakh ne ke kaam ata hai git ke Through humara code udhar jata hai.
+*multiple People work on code easily github cloud platform hota hai jaha hum code save kr ke rakh sakty hai in the form of Repositories(folder)
+*git scm download krna hai
+*Github pe online account bana na prhy ga.
+*git ko bata na prhy ga kon se user hai user & email.
+*open cmd cammad (agar user change krna hoga ya kis or laptop se use krna hoga tb ye cammad chala ni hai)
+*Credential Manager ma jake user delete hoga (if User Change or login new user) 
+
+*for first time or new user login only
+1. git config --global user.name "username"
+2. git config --global user.email "email"
+3. git Status (Opational for Status Check)
+
+*for New Project/folder
+1. git init (git ko initialize kr dega project floder ma)
+2. (git add .) for compelet folder upload / (git add file name) only for one file 
+3. git commit -m "your message (like project updated)"
+4. git remote add origin Repository link
+5. git push -u origin master (default branch is master)
+
+*for project update cammad
+1. git add . 
+2. git commit -m "message"
+3. git push
+
+*if code delete /restore code in your pc
+1. Copy repo link
+2. Open cmd/git
+3. cd desktop
+4. git clone repo link (you can also clone public repo in your pc but can't upload)

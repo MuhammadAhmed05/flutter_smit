@@ -1,0 +1,8 @@
+nested_if\list
+*nested_if apko bata sakta hai ke email galat hai ya password ya dono galat hai.
+
+List
+*list ma hum ek sath bht sara data enter kr sakty hai like student name in class
+*list ma data type <> in bracket ma define hogi list<string, int, ect.>
+*list ki value 0 se start hogi name1==name0
+

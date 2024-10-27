@@ -1,0 +1,6 @@
+*dartpad.dev
+*koi bhi cheez enverted commas ma print hogi wo string hogi (non opernational)
+*koi bhi cheez with out everted commas ma  print hogi wo (integer/int or varible) hogi (opernational)
+*(var/variable) har type ka data accept kr leta (no restirction) like (name=22, age=ahmed) is not good for programing
+*dart ma code line wise chalta hai tw esa nai ho sakta ke ap print phale krwa do or varible bad ma banao (error)
+

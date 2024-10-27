@@ -1,0 +1,5 @@
+true or flase
+*File name(.dart) to creat file in VS Code
+*VS Code ma Code run krne ke lie top line pe run ka option a raha hota hai. like this (Run | Debug)
+*Command All Code select all code and Press (ctrl?)
+ if else 1:15
